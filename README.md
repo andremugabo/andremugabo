@@ -24,6 +24,12 @@ I am a passionate **Software Engineer** with a strong background in **Applied Ma
 ## 🌱 What I'm Learning
 - Advanced concepts in **Software Engineering** and **Machine Learning**.
 - Enhancing my skills in **DevOps** and **Cloud Computing**.
+- **Advanced React** (React Query, Context API, Suspense)
+- **TypeScript** (Generics, Type Inference, Advanced Types)
+- **Node.js** (Express.js, JWT Authentication, REST APIs)
+- **GraphQL** (Apollo Client, Schema Stitching)
+- **Microservices Architecture**
+- **Network Operators**
 
 ## 💡 Projects
 Here are a few of the projects I’m currently working on:
