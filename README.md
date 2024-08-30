@@ -43,6 +43,8 @@ Here are a few of the projects I’m currently working on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremugabo&layout=compact&theme=radical&langs_count=10)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andremugabo&theme=radical)
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andremugabo&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=andremugabo&layout=compact&theme=dark)
+
 ![Profile Views](https://profile-counter.glitch.me/andremugabo/count.svg)
 
 
