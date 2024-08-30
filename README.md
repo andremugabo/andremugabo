@@ -42,11 +42,8 @@ Here are a few of the projects I’m currently working on:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andremugabo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremugabo&layout=compact&theme=radical&langs_count=10)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andremugabo&theme=radical)
-
-
-![Profile Views](https://profile-counter.glitch.me/andremugabo/count.svg)
-
-
+![Profile Views](https://profile-views.github.com/andremugabo)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=andremugabo)
 
 
 ## 📫 How to Reach Me
