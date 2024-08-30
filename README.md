@@ -39,6 +39,14 @@ Here are a few of the projects I’m currently working on:
 ### 🛠️ My Top Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremugabo&layout=compact&theme=radical&langs_count=10)
 
+## ⚡ GitHub Stats & Graphs
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andremugabo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremugabo&layout=compact&theme=radical&langs_count=8)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andremugabo&theme=radical)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andremugabo&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile Views](https://komarev.com/ghpvc/?username=andremugabo&color=brightgreen)
+
+
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Andre Mugabo](https://www.linkedin.com/in/mugabo-andré-9a1a0774)
