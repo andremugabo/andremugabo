@@ -36,6 +36,9 @@ Here are a few of the projects I’m currently working on:
 - **[Cathedral Saint Michel Website](https://github.com/andremugabo/st_michel_fn):** A React and TypeScript-based website with a custom CMS.
 - **[Pub and Lodge System Management](https://github.com/andremugabo/BARD-LODGE):** A comprehensive system for managing pub and lodge operations.
 
+### 🛠️ My Top Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremugabo&layout=compact&theme=radical&langs_count=8)
+
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Andre Mugabo](https://www.linkedin.com/in/mugabo-andré-9a1a0774)
