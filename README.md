@@ -36,15 +36,15 @@ Here are a few of the projects I’m currently working on:
 - **[Cathedral Saint Michel Website](https://github.com/andremugabo/st_michel_fn):** A React and TypeScript-based website with a custom CMS.
 - **[Pub and Lodge System Management](https://github.com/andremugabo/BARD-LODGE):** A comprehensive system for managing pub and lodge operations.
 
-### 🛠️ My Top Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremugabo&layout=compact&theme=radical&langs_count=10)
+
 
 ## ⚡ GitHub Stats & Graphs
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andremugabo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremugabo&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andremugabo&layout=compact&theme=radical&langs_count=10)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andremugabo&theme=radical)
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=andremugabo&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Profile Views](https://komarev.com/ghpvc/?username=andremugabo&color=brightgreen)
+![Profile Views](https://profile-counter.glitch.me/andremugabo/count.svg)
+
 
 
 
