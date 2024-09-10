@@ -47,8 +47,8 @@ Here are a few of the projects I’m currently working on:
 
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugabo-andré-9a1a0774)
-- **Email:** [![Yahoo](https://img.shields.io/badge/Yahoo-%23000000.svg?style=flat-square&logo=yahoo&logoColor=white)](mailto:andremugabo@yahoo.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugabo-andré-9a1a0774)
+[![Yahoo](https://img.shields.io/badge/Yahoo-%23000000.svg?style=flat-square&logo=yahoo&logoColor=white)](mailto:andremugabo@yahoo.fr)
 
 
 
