@@ -1,11 +1,7 @@
-Here's the updated version of your GitHub profile README with LaTeX included in the Skills & Tools section:
-
----
-
 # 👋 Hi, I'm Andre Mugabo (@andremugabo) ![Pro](https://img.shields.io/badge/PRO-Software%20Engineer-brightgreen?style=flat-square)
 
 ## 🚀 About Me
-I am a passionate **Software Engineer** with a strong background in **Applied Mathematics**. I specialize in software development,web applications, desktop applications, network operations, and teaching. My work primarily revolves around creating efficient, scalable solutions and contributing to impactful projects.
+As a dedicated Software Engineer with a robust background in Applied Mathematics, I excel in designing and developing innovative solutions across software development, web and desktop applications, network operations, and technical training. My expertise lies in creating scalable, efficient systems that drive impactful results and advance organizational goals.
 
 ![GitHub followers](https://img.shields.io/github/followers/andremugabo?style=social) ![GitHub stars](https://img.shields.io/github/stars/andremugabo?style=social)
 
