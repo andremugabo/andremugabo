@@ -6,7 +6,7 @@ As a dedicated Software Engineer with a robust background in Applied Mathematics
 ![GitHub followers](https://img.shields.io/github/followers/andremugabo?style=social) ![GitHub stars](https://img.shields.io/github/stars/andremugabo?style=social)
 
 ## 🛠️ Skills & Tools  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
 ![Java RMI](https://img.shields.io/badge/Java%20RMI-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)  
 ![Java Hibernate](https://img.shields.io/badge/Hibernate-%234599C7.svg?style=flat-square&logo=hibernate&logoColor=white)  
