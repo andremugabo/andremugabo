@@ -31,7 +31,7 @@ As a dedicated Software Engineer with a robust background in Applied Mathematics
 
 ## 💡 Projects
 Here are a few of the projects I’m currently working on:
-- **[Cathedral Saint Michel Website](https://github.com/andremugabo/st_michel_fn):** A React and TypeScript-based website with a custom CMS.
+- **[Cathedral Saint Michel Website](https://saintmichel.rw/):** A React and TypeScript-based website with a custom CMS.
 - **[Pub and Lodge System Management](https://github.com/andremugabo/BARD-LODGE):** A comprehensive system for managing pub and lodge operations.
 
 
